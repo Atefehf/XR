@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.State.csproj": {}
+  },
+  "projects": {
+    "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Core.csproj",
+        "projectName": "Unity.VisualScripting.Core",
+        "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Core.csproj",
+        "packagesPath": "/Users/atefeh/.nuget/packages/",
+        "outputPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Temp/obj/Unity.VisualScripting.Core/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atefeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj"
+              },
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Flow.csproj",
+        "projectName": "Unity.VisualScripting.Flow",
+        "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Flow.csproj",
+        "packagesPath": "/Users/atefeh/.nuget/packages/",
+        "outputPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Temp/obj/Unity.VisualScripting.Flow/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atefeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj"
+              },
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.State.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.State.csproj",
+        "projectName": "Unity.VisualScripting.State",
+        "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.State.csproj",
+        "packagesPath": "/Users/atefeh/.nuget/packages/",
+        "outputPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Temp/obj/Unity.VisualScripting.State/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atefeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Unity.VisualScripting.Flow.csproj"
+              },
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj"
+              },
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/Users/atefeh/.nuget/packages/",
+        "outputPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Temp/obj/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atefeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.UI.csproj",
+        "packagesPath": "/Users/atefeh/.nuget/packages/",
+        "outputPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Temp/obj/UnityEditor.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atefeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/Users/atefeh/.nuget/packages/",
+        "outputPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Temp/obj/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atefeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/UnityEngine.UI.csproj",
+        "packagesPath": "/Users/atefeh/.nuget/packages/",
+        "outputPath": "/Users/atefeh/XR-Dev/GAMEDEV.TV/Atefehf:XR/GameDev-02/Temp/obj/UnityEngine.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atefeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
